@@ -14,5 +14,5 @@ sudo pip3 install PyPDF2
 ```
 
 ## Licence
-GNU GENERAL PUBLIC LICENSE Version 
+GNU GENERAL PUBLIC LICENSE Version 3
 
